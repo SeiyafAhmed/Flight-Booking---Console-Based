@@ -1,4 +1,4 @@
-# Flight-Booking---Console-Based
+# Flight-Booking (Console-Based)
 Welcome to the Flight Booking Application repository! This C++ project offers a robust solution for managing flight bookings via a console-based interface. With a focus on simplicity and efficiency, users can easily book flights, select seats, and cancel bookings with just a few commands.
 
 **Features:**
